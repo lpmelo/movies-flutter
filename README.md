@@ -1,22 +1,12 @@
 # Filmes (Movies)
 
-Aplicativo de lista de filmes utilizando a API do [TMDb](https://www.themoviedb.org/?language=pt-BR) criado para disciplina de Programação Mobile, criado por Kleber de Oliveira Andrade
-
-Tutorial de criação deste app: [clique aqui](https://kleberandrade.medium.com/criando-um-aplicativo-em-flutter-para-consumir-uma-api-de-filmes-tmdb-2b5a9982bfcd)
+Aplicativo de lista de filmes utilizando a API do [TMDb](https://www.themoviedb.org/?language=pt-BR) criado para disciplina de Programação Mobile, criado por Kleber de Oliveira Andrade. Desafios resolvidos por Lucas Pereira Melo
 
 <p align="center">
     <img src="https://miro.medium.com/max/334/1*QWNFydDZqp2Y12UDsRROHQ.png" width="250"/>
     <img src="https://miro.medium.com/max/334/1*zk7ckxu63R3zKAGdUdUAbg.png" width="250"/>
     <img src="https://miro.medium.com/max/334/1*SpoH2wRV3jNAuCk1Hz4EzQ.png" width="250"/>
 </p>
-
-## Como clonar o projeto
-
-*   Faça um fork do projeto (precisa ter uma conta no github)
-*   Abra o terminal do Visual Studio Code
-*   Acesse a pasta onde deseja salvar o aplicativo e digite: git clone *link_do_projeto_no_seu_github* **movies**
-*   Clique em File --> Open e abra o projeto
-*   Não se esqueça de abrir o arquivo *pubspec.yaml* e salvar (CTRL + S) o arquivo para que os plugins sejam baixados 
 
 ## Desafio para aula
 
