@@ -1,8 +1,8 @@
+import 'package:custom_splash/custom_splash.dart';
 import 'package:flutter/material.dart';
 import 'core/constants.dart';
 import 'core/theme_app.dart';
 import 'pages/movie_page.dart';
-import 'package:custom_splash/custom_splash.dart';
 
 void main() {
   Function duringSplash;
@@ -23,8 +23,8 @@ void main() {
   runApp(MaterialApp(
     home: CustomSplash(
       imagePath: 'assets/images/logo.png',
-      backGroundColor: Colors.deepOrange,
-      animationEffect: 'zoom-in',
+      backGroundColor: Colors.grey,
+      animationEffect: 'fade-in',
       logoSize: 200,
       home: MyApp(),
       customFunction: duringSplash,
